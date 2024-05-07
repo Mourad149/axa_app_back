@@ -1,0 +1,9 @@
+{
+    "development": {
+      "username": "root",
+      "password": "Mourad@123",
+      "database": "db_iard",
+      "host": "127.0.0.1",
+      "dialect": "mysql"
+    }
+}
